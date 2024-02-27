@@ -1,0 +1,1 @@
+This is actually a project for last year college student at HUST to graduate (they call it exam scheduler i guess :/), but my program make me do at sophomore lmao, so I make it simple with under 100 lines xD
